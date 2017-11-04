@@ -1,2 +1,2 @@
-# linux_programming
-Code for linux programming class
+# guessing_game
+Code for guessing game assignment
