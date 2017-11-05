@@ -15,7 +15,7 @@ function check_guess() {
   fi
 }
 
-num_files=`ls -l | wc -l`
+num_files=`ls -1 | wc -l`
 echo -e "Welcome to the guessing game!\n"
 while true
 do  
